@@ -52,7 +52,7 @@ export interface IUser<T = undefined> {
   /**
    * User's profile picture.
    */
-  profilePicture: string;
+  image: string;
 
   /**
    * User's additional info (if any).

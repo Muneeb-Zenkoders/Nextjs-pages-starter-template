@@ -6,6 +6,7 @@ import LoginView from "../views/Authentication/Login";
 
 // Next JS Imports
 import Head from "next/head";
+ 
 
 const Login = () => {
   return (
